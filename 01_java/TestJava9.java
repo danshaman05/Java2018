@@ -18,7 +18,7 @@ public class TestJava9 {
 			}
 		
 		public static void main(String[] args) { 
-			System.out.println(sucty(List.of(1,2,3,4,5), List.of(3,4,5,6,7)));
+			System.out.println(sucty(List.of(1,2,3,4,5), List.of(3,4,5,6,7)));  
 			System.out.println(suctyVela(List.of(List.of(1,2,3,4,5), List.of(1,2,3,4,5), List.of(1,2,3,4,5))));
 			System.out.println(suctyVela(List.of(List.of(1,2,3), List.of(1,2), List.of(1,3))));
 			 
