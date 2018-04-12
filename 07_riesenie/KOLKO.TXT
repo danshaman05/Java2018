@@ -1,0 +1,76 @@
+Projekty k predmetu
+16
+
+0
+Programovanie 3 (Algorithms in Java) 
+26
+
+0
+Pravidlá:
+7
+projekt je nutná podmienka úèasti na skúške (t.j. bez uznaného projektu cvièiacim nemôete na skúšku),
+83
+projekt je moné odovzdáva cez semester, poèas cvièení, po semestri po dohode s cvièiacim
+75
+applet musí rámcovo zodpoveda zadaniu, a musí by funkènı,
+49
+zadania konzultujte na cvièeniach,
+30
+projekt musí by vaša vlastná tvorba,
+31
+mnoina tém nie je uzavretá, vaše nápady sú vítane, konzultujte s cvièiacim,
+62
+mnoina pravidiel nie je uzavretá, všetky ïalšie mou by vo váš neprospech :-)
+63
+
+0
+Témy:
+3
+
+0
+applet zobrazujúci digitálne hodinky, 7-segmentovı LED display v tvare HH:MM:SS, s budíkom, monost nastavenia èasu, 
+85
+applet zobrazujúci binárne hodinky, 
+31
+applet kalkulaèka na kurzové prevody, s monosou zadávania kurzov a funkciou prevodu, 
+73
+applet pre hru Obesenec, 
+19
+applet pre hru Logic, cifry 0..9 s opakovaním, 
+32
+applet zobrazujúci priebeh rôznych funkcií vo zvolenom intervale, 
+57
+applet simulujúci obchod s n-kasami, jedna fronta na èakanie, n-front, nastavitelné parametre, 
+77
+applet simulujúci vıah, s programovaním a bez, 
+39
+applet graficky zobrazujúci nejaku lineárnu, resp. stromovú dátovú štruktúru, so základnımi operáciami nad òou, 
+94
+applet pre hru dáma, pekná grafika, 
+28
+applet na hru sokoban, 
+18
+applet na hru solitaire, 
+20
+applet na simuláciu hanojskıch veí, 
+31
+applet na hru reversi, 
+18
+applet zobrazujúci model slneènej sústavy, pekná grafika, 
+49
+ma¾ovátko so symetriami, 
+21
+applet pre hru priestorové piškvorky, 
+32
+applet pre hru tetris, 
+18
+applet na riešenie kríoviek, 
+25
+applet na riešenie sudoku, 
+22
+applet na simuláciu gulièkového poèítadla abacus, 
+43
+applet pre hru poker, 
+17
+applet simulujúci slot machine. 
+27
