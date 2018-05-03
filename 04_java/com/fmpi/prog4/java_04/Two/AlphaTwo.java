@@ -11,7 +11,7 @@ public class AlphaTwo extends Alpha {
 
         int r = //  a.iamprivate +
                   //  a.iampackage +
-                  //  a.iamprotected +
+                   // a.iamprotected +
                  a.iampublic;
 
         AlphaTwo a2 = new AlphaTwo();

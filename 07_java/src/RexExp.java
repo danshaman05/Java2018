@@ -64,5 +64,16 @@ public class RexExp {
 			System.out.println(sc.hasNext("\\d{3}"));
 			sc.close();
 		}		
+		{
+			Scanner sc = new Scanner(new StringReader("558"));
+			System.out.println(sc.hasNext("(\\d)\\1\\d"));
+			sc.close();
+		}
+		{
+			Scanner sc = new Scanner(new StringReader("567567"));
+			System.out.println(sc.hasNext("(\\d\\d\\d)\\1"));
+			sc.close();
+		}		
+		
 	}
 }

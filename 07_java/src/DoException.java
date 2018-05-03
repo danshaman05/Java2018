@@ -9,13 +9,13 @@ public class DoException {
 	  }
 	} catch (Exception1 e1) {
 	    System.out.println("Exception 1"); 
-	    //return;
+	    return;
 	} catch (Exception2 e2) {
 	    System.out.println("Exception 2"); 
-	    //return;
+	    return;
 	} catch (Exception12 e12) {
 	    System.out.println("Exception 12");
-	   // return;
+	   return;
 	}  
 	finally  
 	{
